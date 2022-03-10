@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+### Task Management App build with NestJS framework and Relatoinal Database PostGres and using TypeORM Package.
 
 ## Installation
 
